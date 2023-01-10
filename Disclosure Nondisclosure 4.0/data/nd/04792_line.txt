@@ -1,0 +1,1 @@
+The fluctuations are quite large , for example it would fall to 90 in 1520 seconds , and then in another 20 seconds it would increase to 110 , and then repeats
